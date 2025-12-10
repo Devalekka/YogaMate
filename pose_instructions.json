@@ -1,0 +1,125 @@
+{
+  "Easy Standing Forward Bend": {
+    "instructions": "Stand with feet hip-width apart. Bend knees slightly. Hinge at hips and fold forward. Let arms hang or rest hands on shins. Keep back relaxed.",
+    "key_points": ["Feet hip-width", "Bend knees", "Hinge at hips", "Relaxed back"],
+    "image": "img/easy_forward_bend.webp",
+    "video": "easy_forward_bend_video.mp4"
+  },
+  "Half Forward Fold": {
+    "instructions": "Stand with feet hip-width apart. Hinge at hips and fold forward halfway, keeping back straight. Place hands on shins or thighs. Keep knees soft.",
+    "key_points": ["Feet hip-width", "Hinge at hips", "Back straight", "Hands on shins"],
+    "image": "img/half_forward_fold.webp",
+    "video": "half_forward_fold_video.mp4"
+  },
+  "Standing Side Bend": {
+    "instructions": "Stand with feet hip-width apart. Raise one arm overhead. Lean to the side, reaching arm toward ceiling. Keep hips level. Switch sides.",
+    "key_points": ["Feet hip-width", "One arm up", "Lean to side", "Hips level"],
+    "image": "img/standing_side_bend.jpg",
+    "video": "standing_side_bend_video.mp4"
+  },
+
+  "Tree Pose": {
+    "instructions": "Stand on one leg, place the other foot on the inner thigh of the standing leg. Bring hands to prayer position at chest. Balance and breathe steadily.",
+    "key_points": ["One foot on thigh", "Hands in prayer", "Balance on one leg", "Steady breathing"],
+    "image": "img/tree_pose.webp",
+    "video": "tree_pose_video.mp4"
+  },
+
+  "Downward Dog": {
+    "instructions": "Start on hands and knees. Lift hips up and back, straightening legs. Form an inverted V shape. Press heels toward floor. Keep arms straight and head between arms.",
+    "key_points": ["Inverted V shape", "Heels toward floor", "Arms straight", "Head between arms"],
+    "image": "img/downwarddog_pose.jpg",
+    "video": "downward_dog_video.mp4"
+  },
+  "Bridge Pose": {
+    "instructions": "Lie on back with knees bent and feet flat on floor. Lift hips toward ceiling. Keep shoulders and head on floor. Clasp hands under back if comfortable.",
+    "key_points": ["Lie on back", "Knees bent", "Lift hips", "Shoulders on floor"],
+    "image": "img/bridge_pose.webp",
+    "video": "bridge_pose_video.mp4"
+  },
+
+
+  "Easy Pose": {
+    "instructions": "Sit cross-legged on floor. Rest hands on knees. Keep spine straight. Breathe deeply and relax.",
+    "key_points": ["Cross-legged", "Hands on knees", "Spine straight", "Relaxed breathing"],
+    "image": "img/easy_pose.jpg",
+    "video": "easy_pose_video.mp4"
+  },
+  "Staff Pose": {
+    "instructions": "Sit on the floor with legs extended straight in front. Place hands beside hips, fingers pointing forward. Keep spine straight and shoulders relaxed. Engage thigh muscles.",
+    "key_points": ["Legs extended", "Hands beside hips", "Spine straight", "Shoulders relaxed"],
+    "image": "img/staff_pose.jpg",
+    "video": "staff_pose_video.mp4"
+  },
+
+  "Butterfly Pose": {
+    "instructions": "Sit with soles of feet together. Let knees fall open. Hold feet with hands. Gently flap knees like butterfly wings.",
+    "key_points": ["Soles together", "Knees open", "Hold feet", "Gentle flapping"],
+    "image": "img/butterfly_pose.jpg",
+    "video": "butterfly_pose_video.mp4"
+  },
+
+
+
+  "Camel Pose": {
+    "instructions": "Kneel with knees hip-width apart. Place hands on lower back. Arch back and reach hands toward heels. Keep hips forward and thighs vertical.",
+    "key_points": ["Kneeling", "Hands on lower back", "Arch back", "Reach toward heels"],
+    "image": "img/camel_pose.jpg",
+    "video": "camel_pose_video.mp4"
+  },
+  "Cobra Pose": {
+    "instructions": "Lie face down with hands under shoulders. Press into hands to lift chest off ground. Keep elbows close to body and hips on floor.",
+    "key_points": ["Lie face down", "Hands under shoulders", "Lift chest", "Hips on floor"],
+    "image": "img/cobra_pose.jpg",
+    "video": "cobra_pose_video.mp4"
+  },
+  "Plank Pose": {
+    "instructions": "Start in push-up position with hands under shoulders. Keep body in straight line from head to heels. Engage core and hold.",
+    "key_points": ["Push-up position", "Straight body line", "Engage core", "Hold steady"],
+    "image": "img/plank_pose.jpg",
+    "video": "plank_pose_video.mp4"
+  },
+  "Hero Pose": {
+    "instructions": "Kneel with knees together. Sit back between heels. Keep spine straight and hands on thighs. Relax shoulders.",
+    "key_points": ["Kneel with knees together", "Sit between heels", "Spine straight", "Hands on thighs"],
+    "image": "img/hero_pose.jpg",
+    "video": "hero_pose_video.mp4"
+  },
+  "Chair Pose": {
+    "instructions": "Stand with feet together. Bend knees as if sitting back into chair. Raise arms overhead. Keep weight in heels.",
+    "key_points": ["Feet together", "Bend knees", "Raise arms overhead", "Weight in heels"],
+    "image": "img/chair_pose.webp",
+    "video": "chair_pose_video.mp4"
+  },
+  "Mountain Pose": {
+    "instructions": "Stand tall with feet together or hip-width apart. Arms at sides. Distribute weight evenly. Keep spine straight and shoulders relaxed.",
+    "key_points": ["Stand tall", "Feet together or hip-width", "Arms at sides", "Spine straight"],
+    "image": "img/mountain_pose.webp",
+    "video": "mountain_pose_video.mp4"
+  },
+  "Child Pose": {
+    "instructions": "Kneel on floor with knees wide. Fold forward, extending arms in front. Rest forehead on floor. Breathe deeply.",
+    "key_points": ["Kneel with knees wide", "Fold forward", "Arms extended", "Forehead on floor"],
+    "image": "img/child_pose.webp",
+    "video": "child_pose_video.mp4"
+  },
+  "Seated Forward Bend": {
+    "instructions": "Sit with legs extended straight. Hinge at hips and fold forward. Reach toward feet. Keep back relaxed.",
+    "key_points": ["Legs extended", "Hinge at hips", "Reach toward feet", "Relaxed back"],
+    "image": "img/easy_forward_bend.webp",
+    "video": "seated_forward_bend_video.mp4"
+  },
+  "Cat Pose": {
+    "instructions": "Start on hands and knees. Arch back upward like a cat. Tuck chin to chest. Engage core.",
+    "key_points": ["Hands and knees", "Arch back up", "Tuck chin", "Engage core"],
+    "image": "img/cat_pose.jpg",
+    "video": "cat_pose_video.mp4"
+  },
+  "Cow Pose": {
+    "instructions": "Start on hands and knees. Arch back downward, lifting chest and gaze. Relax shoulders.",
+    "key_points": ["Hands and knees", "Arch back down", "Lift chest", "Relax shoulders"],
+    "image": "img/cow_pose.jpg",
+    "video": "cow_pose_video.mp4"
+  }
+
+}
